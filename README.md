@@ -6,8 +6,6 @@ Decentralized Social Platform
   # Solana X
   
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
-  A powerful and flexible centralized trading system for automated cryptocurrency trading.
 </div>
 
 A decentralized social platform built on Solana blockchain, implementing a simplified version of Twitter functionality as a dApp (decentralized application).
